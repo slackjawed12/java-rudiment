@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceacd911-9f43-441b-b07e-6f80e9a3507d" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Ex6_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Ex6_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Ex6_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="ceacd911-9f43-441b-b07e-6f80e9a3507d" name="Changes" comment="instance variable, static variable">
+      <change afterPath="$PROJECT_DIR$/src/chap06/Ex6_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +42,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex6_3">
+  <component name="RunManager" selected="Application.Ex6_4">
     <configuration name="Ex6_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap06.Ex6_2" />
       <module name="java-rudiment" />
@@ -73,8 +69,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex6_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.Ex6_4" />
+      <module name="java-rudiment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex6_4" />
         <item itemvalue="Application.Ex6_3" />
         <item itemvalue="Application.Ex6_2" />
       </list>
@@ -88,7 +98,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676865387010</updated>
-      <workItem from="1676865388385" duration="2124000" />
+      <workItem from="1676865388385" duration="3256000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1676865424752</created>
@@ -97,12 +107,20 @@
       <option name="project" value="LOCAL" />
       <updated>1676865424752</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="instance variable, static variable">
+      <created>1676867572297</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676867572297</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="instance variable, static variable" />
+    <option name="LAST_COMMIT_MESSAGE" value="instance variable, static variable" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
