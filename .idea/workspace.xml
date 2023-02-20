@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceacd911-9f43-441b-b07e-6f80e9a3507d" name="Changes" comment="method call">
-      <change afterPath="$PROJECT_DIR$/src/chap06/Ex6_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Ex6_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Ex6_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ceacd911-9f43-441b-b07e-6f80e9a3507d" name="Changes" comment="call stack, method parameter">
+      <change afterPath="$PROJECT_DIR$/src/chap06/Ex6_8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +125,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676865387010</updated>
-      <workItem from="1676865388385" duration="4336000" />
+      <workItem from="1676865388385" duration="4930000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1676865424752</created>
@@ -151,14 +148,22 @@
       <option name="project" value="LOCAL" />
       <updated>1676868791067</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="call stack, method parameter">
+      <created>1676869911653</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676869911653</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="instance variable, static variable" />
     <MESSAGE value="method call" />
-    <option name="LAST_COMMIT_MESSAGE" value="method call" />
+    <MESSAGE value="call stack, method parameter" />
+    <option name="LAST_COMMIT_MESSAGE" value="call stack, method parameter" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
