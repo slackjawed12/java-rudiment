@@ -1,4 +1,4 @@
-package chap06;
+package chap06.example;
 /**
  * 참조형 반환 타입
  */

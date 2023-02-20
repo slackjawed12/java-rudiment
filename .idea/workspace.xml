@@ -4,10 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceacd911-9f43-441b-b07e-6f80e9a3507d" name="Changes" comment="참조형 타입을 반환하는 메서드">
-      <change afterPath="$PROJECT_DIR$/src/chap06/Ex6_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Ex6_9.java" afterDir="false" />
+    <list default="true" id="ceacd911-9f43-441b-b07e-6f80e9a3507d" name="Changes" comment="1. static method&#10;2. method overloading">
+      <change afterPath="$PROJECT_DIR$/src/chap06/example/Ex6_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/example/Ex6_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/example/Ex6_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/example/Ex6_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/example/Ex6_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/exercise/Exercise6_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap06/Ex6_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap06/example/Ex6_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap06/Ex6_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap06/example/Ex6_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap06/Ex6_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap06/example/Ex6_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap06/Ex6_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap06/example/Ex6_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap06/Ex6_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap06/example/Ex6_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap06/Ex6_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap06/example/Ex6_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap06/Ex6_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap06/example/Ex6_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap06/Ex6_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap06/example/Ex6_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap06/Ex6_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap06/example/Ex6_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap06/Ex6_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap06/example/Ex6_9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +57,13 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex6_10 (1)">
-    <configuration name="Ex6_10 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.Ex6_10" />
+  <component name="RunManager" selected="Application.Ex6_15">
+    <configuration name="Ex6_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.example.Ex6_10" />
       <module name="java-rudiment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap06.*" />
+          <option name="PATTERN" value="chap06.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,11 +72,11 @@
       </method>
     </configuration>
     <configuration name="Ex6_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.Ex6_10" />
+      <option name="MAIN_CLASS_NAME" value="chap06.example.Ex6_10" />
       <module name="java-rudiment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap06.*" />
+          <option name="PATTERN" value="chap06.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex6_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.Ex6_6" />
+    <configuration name="Ex6_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.example.Ex6_12" />
       <module name="java-rudiment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap06.*" />
+          <option name="PATTERN" value="chap06.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex6_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.Ex6_7" />
+    <configuration name="Ex6_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.example.Ex6_14" />
       <module name="java-rudiment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap06.*" />
+          <option name="PATTERN" value="chap06.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex6_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.Ex6_9" />
+    <configuration name="Ex6_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.example.Ex6_15" />
       <module name="java-rudiment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap06.*" />
+          <option name="PATTERN" value="chap06.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex6_15" />
+        <item itemvalue="Application.Ex6_14" />
+        <item itemvalue="Application.Ex6_12" />
         <item itemvalue="Application.Ex6_10 (1)" />
         <item itemvalue="Application.Ex6_10" />
-        <item itemvalue="Application.Ex6_9" />
-        <item itemvalue="Application.Ex6_7" />
-        <item itemvalue="Application.Ex6_6" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +141,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676865387010</updated>
-      <workItem from="1676865388385" duration="5992000" />
+      <workItem from="1676865388385" duration="9175000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1676865424752</created>
@@ -164,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676870699037</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1. static method&#10;2. method overloading">
+      <created>1676871563022</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676871563022</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -173,7 +194,8 @@
     <MESSAGE value="method call" />
     <MESSAGE value="call stack, method parameter" />
     <MESSAGE value="참조형 타입을 반환하는 메서드" />
-    <option name="LAST_COMMIT_MESSAGE" value="참조형 타입을 반환하는 메서드" />
+    <MESSAGE value="1. static method&#10;2. method overloading" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. static method&#10;2. method overloading" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

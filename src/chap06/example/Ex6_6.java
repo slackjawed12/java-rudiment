@@ -1,4 +1,4 @@
-package chap06;
+package chap06.example;
 
 /**
  * 메서드 기본형 매개 변수 - Read Only

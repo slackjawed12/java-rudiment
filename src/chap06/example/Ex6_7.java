@@ -1,4 +1,4 @@
-package chap06;
+package chap06.example;
 
 class Data2 {
     int x;
