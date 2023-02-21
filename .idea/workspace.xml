@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceacd911-9f43-441b-b07e-6f80e9a3507d" name="Changes" comment="Day 03 Report 7">
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/Exercise7_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/Exercise7_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/Exercise7_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/Exercise7_4.java" afterDir="false" />
+    <list default="true" id="ceacd911-9f43-441b-b07e-6f80e9a3507d" name="Changes" comment="Day 04 Report 8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap07/Ex7_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap07/example/Ex7_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap07/Ex7_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap07/example/Ex7_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap07/Ex7_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap07/example/Ex7_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap07/Ex7_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap07/example/Ex7_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap07/Ex7_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap07/example/Ex7_6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +142,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676865387010</updated>
       <workItem from="1676865388385" duration="9976000" />
-      <workItem from="1676944143539" duration="9964000" />
+      <workItem from="1676944143539" duration="10362000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1676865424752</created>
@@ -237,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676959993991</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Day 04 Report 8">
+      <created>1676962039330</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1676962039330</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -253,7 +251,8 @@
     <MESSAGE value="Day 03 Report 5" />
     <MESSAGE value="Day 03 Report 6" />
     <MESSAGE value="Day 03 Report 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 03 Report 7" />
+    <MESSAGE value="Day 04 Report 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 04 Report 8" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
