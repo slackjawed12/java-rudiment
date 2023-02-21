@@ -1,16 +1,19 @@
-package chap07;
+package chap07.example;
 
-public class Ex7_3 {
+/**
+ * 참조변수 super
+ */
+public class Ex7_2 {
     public static void main(String[] args) {
-        new Child2().method();
+        new Child().method();
     }
 }
 
-class Parent2 {
+class Parent {
     int x = 10; // super.x
 }
 
-class Child2 extends Parent {
+class Child extends Parent {
     int x = 20;
 
     void method() {

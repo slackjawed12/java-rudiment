@@ -1,3 +1,11 @@
 ## 자바의 정석 실습코드
 
-### chapter 06~
+### Day 03, Report 5, 6, 7
+java-rudiment / src / chap06 / exercise /
+
+
+### Day 04, Report 8
+java-rudiment / src / chap07 / exercise /
+
+### Day 05
+java-rudiment / src / chap07 / exercise / solid

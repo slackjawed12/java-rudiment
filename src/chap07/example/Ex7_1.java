@@ -1,4 +1,4 @@
-package chap07;
+package chap07.example;
 
 /**
  * 상속, extends 키워드

@@ -1,4 +1,4 @@
-package chap07;
+package chap07.example;
 
 /**
  * super() : 부모 클래스의 생성자
