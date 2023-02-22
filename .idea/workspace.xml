@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceacd911-9f43-441b-b07e-6f80e9a3507d" name="Changes" comment="day05 solid Report">
-      <change afterPath="$PROJECT_DIR$/src/chap07/example/Ex7_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ceacd911-9f43-441b-b07e-6f80e9a3507d" name="Changes" comment="상속 관계에서 형변환">
+      <change afterPath="$PROJECT_DIR$/src/chap07/example/Ex7_8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
       <recent name="chap07.exercise.solid.srp" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.chap07.exercise.solid.dip.Client">
+  <component name="RunManager" selected="Application.Ex7_8">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap07.exercise.solid.lsp.Client" />
       <module name="java-rudiment" />
@@ -69,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise7_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap07.exercise.Exercise7_1" />
+    <configuration name="Ex7_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap07.example.Ex7_8" />
       <module name="java-rudiment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap07.exercise.*" />
+          <option name="PATTERN" value="chap07.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex7_8" />
         <item itemvalue="Application.chap07.exercise.solid.dip.Client" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Exercise7_5" />
         <item itemvalue="Application.Exercise7_2" />
-        <item itemvalue="Application.Exercise7_1" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +143,7 @@
       <workItem from="1676964765609" duration="590000" />
       <workItem from="1676970450161" duration="16000" />
       <workItem from="1677019139047" duration="614000" />
-      <workItem from="1677052571402" duration="9298000" />
+      <workItem from="1677052571402" duration="10201000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1676865424752</created>
@@ -251,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677064262531</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="상속 관계에서 형변환">
+      <created>1677066190176</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1677066190176</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -270,7 +276,8 @@
     <MESSAGE value="Day 04 Report 8" />
     <MESSAGE value="readme 수정" />
     <MESSAGE value="day05 solid Report" />
-    <option name="LAST_COMMIT_MESSAGE" value="day05 solid Report" />
+    <MESSAGE value="상속 관계에서 형변환" />
+    <option name="LAST_COMMIT_MESSAGE" value="상속 관계에서 형변환" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
