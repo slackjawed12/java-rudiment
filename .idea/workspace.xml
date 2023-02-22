@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceacd911-9f43-441b-b07e-6f80e9a3507d" name="Changes" comment="상속 관계에서 형변환">
-      <change afterPath="$PROJECT_DIR$/src/chap07/example/Ex7_8.java" afterDir="false" />
+    <list default="true" id="ceacd911-9f43-441b-b07e-6f80e9a3507d" name="Changes" comment="매개변수 다형성">
+      <change afterPath="$PROJECT_DIR$/src/chap07/example/Ex7_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/example/Ex7_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,16 +37,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/java-rudiment/src/chap07/exercise/solid/ocp",
-    "settings.editor.selected.configurable": "configurable.group.tools"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/java-rudiment/src/chap07/exercise/solid/ocp&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\java-rudiment\src\chap07\exercise\solid\ocp" />
@@ -54,13 +56,26 @@
       <recent name="chap07.exercise.solid.srp" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex7_8">
+  <component name="RunManager" selected="Application.Ex7_10">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap07.exercise.solid.lsp.Client" />
       <module name="java-rudiment" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chap07.exercise.solid.lsp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex7_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap07.example.Ex7_10" />
+      <module name="java-rudiment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap07.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,25 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise7_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap07.exercise.Exercise7_2" />
+    <configuration name="Ex7_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap07.example.Ex7_9" />
       <module name="java-rudiment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap07.exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise7_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap07.exercise.Exercise7_5" />
-      <module name="java-rudiment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap07.exercise.*" />
+          <option name="PATTERN" value="chap07.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex7_10" />
+        <item itemvalue="Application.Ex7_9" />
         <item itemvalue="Application.Ex7_8" />
         <item itemvalue="Application.chap07.exercise.solid.dip.Client" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Exercise7_5" />
-        <item itemvalue="Application.Exercise7_2" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +145,8 @@
       <workItem from="1676964765609" duration="590000" />
       <workItem from="1676970450161" duration="16000" />
       <workItem from="1677019139047" duration="614000" />
-      <workItem from="1677052571402" duration="10201000" />
+      <workItem from="1677052571402" duration="10808000" />
+      <workItem from="1677067728487" duration="1119000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1676865424752</created>
@@ -257,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677066190176</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="매개변수 다형성">
+      <created>1677067143143</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1677067143143</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -277,7 +287,8 @@
     <MESSAGE value="readme 수정" />
     <MESSAGE value="day05 solid Report" />
     <MESSAGE value="상속 관계에서 형변환" />
-    <option name="LAST_COMMIT_MESSAGE" value="상속 관계에서 형변환" />
+    <MESSAGE value="매개변수 다형성" />
+    <option name="LAST_COMMIT_MESSAGE" value="매개변수 다형성" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
