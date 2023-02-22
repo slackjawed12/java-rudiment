@@ -4,47 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceacd911-9f43-441b-b07e-6f80e9a3507d" name="Changes" comment="readme 수정">
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/dip/AbstractOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/dip/AddOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/dip/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/dip/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/dip/DivideOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/dip/MultiplyOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/dip/OperationMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/dip/SubstractOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/isp/AbstractOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/isp/AddOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/isp/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/isp/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/isp/Display.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/isp/DisplayResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/isp/DisplayTypeA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/isp/DisplayTypeB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/isp/DisplayWithOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/isp/DivideOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/isp/MultiplyOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/isp/SubtractOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/lsp/AbstractOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/lsp/AddOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/lsp/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/lsp/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/lsp/DivideOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/lsp/MultiplyOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/lsp/SubstractOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/ocp/AbstractOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/ocp/AddOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/ocp/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/ocp/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/ocp/DivideOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/ocp/MultiplyOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/ocp/SubstractOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/srp/AddOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/srp/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/srp/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/srp/DivideOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/srp/MultiplyOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/srp/SubstractOperation.java" afterDir="false" />
+    <list default="true" id="ceacd911-9f43-441b-b07e-6f80e9a3507d" name="Changes" comment="day05 solid Report">
+      <change afterPath="$PROJECT_DIR$/src/chap07/example/Ex7_7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -183,7 +144,7 @@
       <workItem from="1676964765609" duration="590000" />
       <workItem from="1676970450161" duration="16000" />
       <workItem from="1677019139047" duration="614000" />
-      <workItem from="1677052571402" duration="7593000" />
+      <workItem from="1677052571402" duration="9298000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1676865424752</created>
@@ -283,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676962160479</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="day05 solid Report">
+      <created>1677064262531</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1677064262531</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -301,7 +269,8 @@
     <MESSAGE value="Day 03 Report 7" />
     <MESSAGE value="Day 04 Report 8" />
     <MESSAGE value="readme 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme 수정" />
+    <MESSAGE value="day05 solid Report" />
+    <option name="LAST_COMMIT_MESSAGE" value="day05 solid Report" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
