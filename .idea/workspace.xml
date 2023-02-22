@@ -4,9 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceacd911-9f43-441b-b07e-6f80e9a3507d" name="Changes" comment="Day 04 Report 8">
+    <list default="true" id="ceacd911-9f43-441b-b07e-6f80e9a3507d" name="Changes" comment="readme 수정">
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/dip/AbstractOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/dip/AddOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/dip/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/dip/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/dip/DivideOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/dip/MultiplyOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/dip/OperationMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/dip/SubstractOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/isp/AbstractOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/isp/AddOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/isp/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/isp/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/isp/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/isp/DisplayResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/isp/DisplayTypeA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/isp/DisplayTypeB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/isp/DisplayWithOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/isp/DivideOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/isp/MultiplyOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/isp/SubtractOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/lsp/AbstractOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/lsp/AddOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/lsp/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/lsp/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/lsp/DivideOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/lsp/MultiplyOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/lsp/SubstractOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/ocp/AbstractOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/ocp/AddOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/ocp/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/ocp/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/ocp/DivideOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/ocp/MultiplyOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/ocp/SubstractOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/srp/AddOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/srp/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/srp/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/srp/DivideOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/srp/MultiplyOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap07/exercise/solid/srp/SubstractOperation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +55,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -40,43 +81,26 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/java-rudiment",
+    "last_opened_file_path": "C:/java-rudiment/src/chap07/exercise/solid/ocp",
     "settings.editor.selected.configurable": "configurable.group.tools"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercise7_5">
-    <configuration name="Ex6_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.example.Ex6_10" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\java-rudiment\src\chap07\exercise\solid\ocp" />
+      <recent name="C:\java-rudiment\src\chap07\exercise\solid\dip" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chap07.exercise.solid.srp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.chap07.exercise.solid.dip.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap07.exercise.solid.lsp.Client" />
       <module name="java-rudiment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap06.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise6_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.exercise.Exercise6_20" />
-      <module name="java-rudiment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap06.exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise6_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.exercise.Exercise6_21" />
-      <module name="java-rudiment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap06.exercise.*" />
+          <option name="PATTERN" value="chap07.exercise.solid.lsp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,13 +147,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="chap07.exercise.solid.dip.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap07.exercise.solid.dip.Client" />
+      <module name="java-rudiment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap07.exercise.solid.dip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.chap07.exercise.solid.dip.Client" />
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.Exercise7_5" />
         <item itemvalue="Application.Exercise7_2" />
         <item itemvalue="Application.Exercise7_1" />
-        <item itemvalue="Application.Exercise6_21" />
-        <item itemvalue="Application.Exercise6_20" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +179,11 @@
       <option name="presentableId" value="Default" />
       <updated>1676865387010</updated>
       <workItem from="1676865388385" duration="9976000" />
-      <workItem from="1676944143539" duration="10362000" />
+      <workItem from="1676944143539" duration="10385000" />
+      <workItem from="1676964765609" duration="590000" />
+      <workItem from="1676970450161" duration="16000" />
+      <workItem from="1677019139047" duration="614000" />
+      <workItem from="1677052571402" duration="7593000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1676865424752</created>
@@ -235,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676962039330</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="readme 수정">
+      <created>1676962160479</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1676962160479</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -252,7 +300,8 @@
     <MESSAGE value="Day 03 Report 6" />
     <MESSAGE value="Day 03 Report 7" />
     <MESSAGE value="Day 04 Report 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 04 Report 8" />
+    <MESSAGE value="readme 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme 수정" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
