@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceacd911-9f43-441b-b07e-6f80e9a3507d" name="Changes" comment="매개변수 다형성">
-      <change afterPath="$PROJECT_DIR$/src/chap07/example/Ex7_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap07/example/Ex7_9.java" afterDir="false" />
+    <list default="true" id="ceacd911-9f43-441b-b07e-6f80e9a3507d" name="Changes" comment="객체 배열, 추상 클래스">
+      <change afterPath="$PROJECT_DIR$/src/chap07/example/Ex7_11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,13 +55,13 @@
       <recent name="chap07.exercise.solid.srp" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex7_10">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap07.exercise.solid.lsp.Client" />
+  <component name="RunManager" selected="Application.Ex7_11">
+    <configuration name="Ex7_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap07.example.Ex7_10" />
       <module name="java-rudiment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap07.exercise.solid.lsp.*" />
+          <option name="PATTERN" value="chap07.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex7_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap07.example.Ex7_10" />
+    <configuration name="Ex7_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap07.example.Ex7_11" />
       <module name="java-rudiment" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex7_11" />
         <item itemvalue="Application.Ex7_10" />
         <item itemvalue="Application.Ex7_9" />
         <item itemvalue="Application.Ex7_8" />
         <item itemvalue="Application.chap07.exercise.solid.dip.Client" />
-        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +145,7 @@
       <workItem from="1676970450161" duration="16000" />
       <workItem from="1677019139047" duration="614000" />
       <workItem from="1677052571402" duration="10808000" />
-      <workItem from="1677067728487" duration="1119000" />
+      <workItem from="1677067728487" duration="1734000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1676865424752</created>
@@ -267,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677067143143</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="객체 배열, 추상 클래스">
+      <created>1677068993012</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1677068993012</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -288,7 +294,8 @@
     <MESSAGE value="day05 solid Report" />
     <MESSAGE value="상속 관계에서 형변환" />
     <MESSAGE value="매개변수 다형성" />
-    <option name="LAST_COMMIT_MESSAGE" value="매개변수 다형성" />
+    <MESSAGE value="객체 배열, 추상 클래스" />
+    <option name="LAST_COMMIT_MESSAGE" value="객체 배열, 추상 클래스" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
