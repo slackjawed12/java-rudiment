@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceacd911-9f43-441b-b07e-6f80e9a3507d" name="Changes" comment="iterator - hasNext, next">
-      <change afterPath="$PROJECT_DIR$/src/chap11/Ex11_6.java" afterDir="false" />
+    <list default="true" id="ceacd911-9f43-441b-b07e-6f80e9a3507d" name="Changes" comment="Arrays method">
+      <change afterPath="$PROJECT_DIR$/src/chap11/Ex11_8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap11/Ex11_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap11/Ex11_7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +159,7 @@
       <workItem from="1677052571402" duration="10808000" />
       <workItem from="1677067728487" duration="1817000" />
       <workItem from="1677100462030" duration="632000" />
-      <workItem from="1677546730573" duration="7539000" />
+      <workItem from="1677546730573" duration="8105000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1676865424752</created>
@@ -307,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677552504002</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Arrays method">
+      <created>1677559695863</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1677559695863</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -335,7 +343,8 @@
     <MESSAGE value="인터페이스 디폴트 메서드, static 메서드" />
     <MESSAGE value="ArrayList, Stack, Queue" />
     <MESSAGE value="iterator - hasNext, next" />
-    <option name="LAST_COMMIT_MESSAGE" value="iterator - hasNext, next" />
+    <MESSAGE value="Arrays method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays method" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
