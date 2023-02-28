@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceacd911-9f43-441b-b07e-6f80e9a3507d" name="Changes" comment="객체 배열, 추상 클래스">
-      <change afterPath="$PROJECT_DIR$/src/chap07/example/Ex7_11.java" afterDir="false" />
+    <list default="true" id="ceacd911-9f43-441b-b07e-6f80e9a3507d" name="Changes" comment="인터페이스 디폴트 메서드, static 메서드">
+      <change afterPath="$PROJECT_DIR$/src/chap11/Ex11_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap11/Ex11_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap11/Ex11_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap11/Ex11_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,16 +39,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/java-rudiment/src/chap07/exercise/solid/ocp&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/SpringStudy/hh-memo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.tools"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\java-rudiment\src\chap07\exercise\solid\ocp" />
@@ -55,13 +61,53 @@
       <recent name="chap07.exercise.solid.srp" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex7_11">
-    <configuration name="Ex7_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap07.example.Ex7_10" />
+  <component name="RunManager" selected="Application.Ex11_4">
+    <configuration name="Ex11_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap11.Ex11_1" />
       <module name="java-rudiment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap07.example.*" />
+          <option name="PATTERN" value="chap11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex11_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap11.Ex11_2" />
+      <module name="java-rudiment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex11_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap11.Ex11_3" />
+      <module name="java-rudiment" />
+      <option name="PROGRAM_PARAMETERS" value="(2+3)*1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex11_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap11.Ex11_4" />
+      <module name="java-rudiment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,52 +128,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex7_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap07.example.Ex7_8" />
-      <module name="java-rudiment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap07.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex7_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap07.example.Ex7_9" />
-      <module name="java-rudiment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap07.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="chap07.exercise.solid.dip.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap07.exercise.solid.dip.Client" />
-      <module name="java-rudiment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap07.exercise.solid.dip.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.Ex11_4" />
+      <item itemvalue="Application.Ex7_11" />
+      <item itemvalue="Application.Ex11_1" />
+      <item itemvalue="Application.Ex11_2" />
+      <item itemvalue="Application.Ex11_3" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex11_4" />
+        <item itemvalue="Application.Ex11_3" />
+        <item itemvalue="Application.Ex11_2" />
+        <item itemvalue="Application.Ex11_1" />
         <item itemvalue="Application.Ex7_11" />
-        <item itemvalue="Application.Ex7_10" />
-        <item itemvalue="Application.Ex7_9" />
-        <item itemvalue="Application.Ex7_8" />
-        <item itemvalue="Application.chap07.exercise.solid.dip.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +159,9 @@
       <workItem from="1676970450161" duration="16000" />
       <workItem from="1677019139047" duration="614000" />
       <workItem from="1677052571402" duration="10808000" />
-      <workItem from="1677067728487" duration="1734000" />
+      <workItem from="1677067728487" duration="1817000" />
+      <workItem from="1677100462030" duration="632000" />
+      <workItem from="1677546730573" duration="5080000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1676865424752</created>
@@ -273,8 +289,18 @@
       <option name="project" value="LOCAL" />
       <updated>1677068993012</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="인터페이스 디폴트 메서드, static 메서드">
+      <created>1677069563564</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1677069563564</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
@@ -295,7 +321,8 @@
     <MESSAGE value="상속 관계에서 형변환" />
     <MESSAGE value="매개변수 다형성" />
     <MESSAGE value="객체 배열, 추상 클래스" />
-    <option name="LAST_COMMIT_MESSAGE" value="객체 배열, 추상 클래스" />
+    <MESSAGE value="인터페이스 디폴트 메서드, static 메서드" />
+    <option name="LAST_COMMIT_MESSAGE" value="인터페이스 디폴트 메서드, static 메서드" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
