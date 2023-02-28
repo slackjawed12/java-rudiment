@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceacd911-9f43-441b-b07e-6f80e9a3507d" name="Changes" comment="HashSet, TreeSet">
-      <change afterPath="$PROJECT_DIR$/src/chap11/Ex11_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap11/Ex11_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap11/Ex11_18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ceacd911-9f43-441b-b07e-6f80e9a3507d" name="Changes" comment="HashMap">
+      <change afterPath="$PROJECT_DIR$/src/chap11/Ex11_19.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,20 +57,7 @@
       <recent name="chap07.exercise.solid.srp" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex11_18">
-    <configuration name="Ex11_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap11.Ex11_10" />
-      <module name="java-rudiment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex11_19">
     <configuration name="Ex11_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap11.Ex11_11" />
       <module name="java-rudiment" />
@@ -126,20 +110,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex11_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap11.Ex11_19" />
+      <module name="java-rudiment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Ex11_10" />
       <item itemvalue="Application.Ex11_11" />
       <item itemvalue="Application.Ex11_12" />
       <item itemvalue="Application.Ex11_16" />
       <item itemvalue="Application.Ex11_18" />
+      <item itemvalue="Application.Ex11_19" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex11_19" />
         <item itemvalue="Application.Ex11_18" />
         <item itemvalue="Application.Ex11_16" />
         <item itemvalue="Application.Ex11_12" />
         <item itemvalue="Application.Ex11_11" />
-        <item itemvalue="Application.Ex11_10" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +156,7 @@
       <workItem from="1677052571402" duration="10808000" />
       <workItem from="1677067728487" duration="1817000" />
       <workItem from="1677100462030" duration="632000" />
-      <workItem from="1677546730573" duration="10883000" />
+      <workItem from="1677546730573" duration="11402000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1676865424752</created>
@@ -336,14 +333,20 @@
       <option name="project" value="LOCAL" />
       <updated>1677562080485</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="HashMap">
+      <created>1677563258104</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1677563258105</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="first commit" />
     <MESSAGE value="instance variable, static variable" />
     <MESSAGE value="method call" />
     <MESSAGE value="call stack, method parameter" />
@@ -368,7 +371,8 @@
     <MESSAGE value="comparable, comparator" />
     <MESSAGE value="hash collection - equals, hashcode overriding" />
     <MESSAGE value="HashSet, TreeSet" />
-    <option name="LAST_COMMIT_MESSAGE" value="HashSet, TreeSet" />
+    <MESSAGE value="HashMap" />
+    <option name="LAST_COMMIT_MESSAGE" value="HashMap" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
