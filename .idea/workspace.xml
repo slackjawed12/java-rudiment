@@ -4,8 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceacd911-9f43-441b-b07e-6f80e9a3507d" name="Changes" comment="HashMap">
-      <change afterPath="$PROJECT_DIR$/src/chap11/Ex11_19.java" afterDir="false" />
+    <list default="true" id="ceacd911-9f43-441b-b07e-6f80e9a3507d" name="Changes" comment="Collections 클래스의 메서드 모음&#10;addAll, rotate, swap, shuffle, sort, binarySearch, min, max, fill, nCopies, disjoint, copy">
+      <change afterPath="$PROJECT_DIR$/src/chap12/example/Ex12_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap12/example/Ex12_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap11/Ex11_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap11/example/Ex11_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap11/Ex11_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap11/example/Ex11_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap11/Ex11_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap11/example/Ex11_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap11/Ex11_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap11/example/Ex11_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap11/Ex11_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap11/example/Ex11_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap11/Ex11_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap11/example/Ex11_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap11/Ex11_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap11/example/Ex11_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap11/Ex11_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap11/example/Ex11_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap11/Ex11_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap11/example/Ex11_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap11/Ex11_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap11/example/Ex11_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap11/Ex11_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap11/example/Ex11_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap11/Ex11_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap11/example/Ex11_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap11/Ex11_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap11/example/Ex11_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap11/Ex11_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap11/example/Ex11_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap11/Ex11_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap11/example/Ex11_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap11/Ex11_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap11/example/Ex11_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap11/Ex11_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap11/example/Ex11_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap11/Ex11_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap11/example/Ex11_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap11/Ex11_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap11/example/Ex11_9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +53,6 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
@@ -41,7 +61,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/SpringStudy/servlet",
+    "last_opened_file_path": "C:/java-rudiment",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
@@ -59,11 +79,11 @@
   </component>
   <component name="RunManager" selected="Application.Ex11_19">
     <configuration name="Ex11_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap11.Ex11_11" />
+      <option name="MAIN_CLASS_NAME" value="chap11.example.Ex11_11" />
       <module name="java-rudiment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap11.*" />
+          <option name="PATTERN" value="chap11.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,11 +92,11 @@
       </method>
     </configuration>
     <configuration name="Ex11_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap11.Ex11_12" />
+      <option name="MAIN_CLASS_NAME" value="chap11.example.Ex11_12" />
       <module name="java-rudiment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap11.*" />
+          <option name="PATTERN" value="chap11.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,11 +105,11 @@
       </method>
     </configuration>
     <configuration name="Ex11_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap11.Ex11_16" />
+      <option name="MAIN_CLASS_NAME" value="chap11.example.Ex11_16" />
       <module name="java-rudiment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap11.*" />
+          <option name="PATTERN" value="chap11.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,11 +118,11 @@
       </method>
     </configuration>
     <configuration name="Ex11_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap11.Ex11_18" />
+      <option name="MAIN_CLASS_NAME" value="chap11.example.Ex11_18" />
       <module name="java-rudiment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap11.*" />
+          <option name="PATTERN" value="chap11.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +131,11 @@
       </method>
     </configuration>
     <configuration name="Ex11_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap11.Ex11_19" />
+      <option name="MAIN_CLASS_NAME" value="chap11.example.Ex11_19" />
       <module name="java-rudiment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap11.*" />
+          <option name="PATTERN" value="chap11.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,7 +176,8 @@
       <workItem from="1677052571402" duration="10808000" />
       <workItem from="1677067728487" duration="1817000" />
       <workItem from="1677100462030" duration="632000" />
-      <workItem from="1677546730573" duration="11402000" />
+      <workItem from="1677546730573" duration="11524000" />
+      <workItem from="1677670391610" duration="1128000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1676865424752</created>
@@ -340,14 +361,20 @@
       <option name="project" value="LOCAL" />
       <updated>1677563258105</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Collections 클래스의 메서드 모음&#10;addAll, rotate, swap, shuffle, sort, binarySearch, min, max, fill, nCopies, disjoint, copy">
+      <created>1677563653573</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1677563653573</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="instance variable, static variable" />
     <MESSAGE value="method call" />
     <MESSAGE value="call stack, method parameter" />
     <MESSAGE value="참조형 타입을 반환하는 메서드" />
@@ -372,7 +399,8 @@
     <MESSAGE value="hash collection - equals, hashcode overriding" />
     <MESSAGE value="HashSet, TreeSet" />
     <MESSAGE value="HashMap" />
-    <option name="LAST_COMMIT_MESSAGE" value="HashMap" />
+    <MESSAGE value="Collections 클래스의 메서드 모음&#10;addAll, rotate, swap, shuffle, sort, binarySearch, min, max, fill, nCopies, disjoint, copy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections 클래스의 메서드 모음&#10;addAll, rotate, swap, shuffle, sort, binarySearch, min, max, fill, nCopies, disjoint, copy" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
