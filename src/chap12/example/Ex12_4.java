@@ -42,12 +42,33 @@ class Juicer {
         }
         return new Juice(tmp);
     }
+
+    /**
+     * generic method - 시그니처에 제네릭 타입 선언됨
+     * 1. 제네릭 클래스의 T와 제네릭 메서드의 T는 별개임
+     * 2. static 메서드로 사용 가능
+     */
+    static <T extends Fruit2> Juice makeJuice2(FruitBox2<T> box) {
+        String tmp = "";
+        for (Fruit2 f : box.getList()) {
+            tmp += f + " ";
+        }
+        return new Juice(tmp);
+    }
+
+    public void foo() {
+        FruitBox2<Fruit2> box = new FruitBox2<>();
+        System.out.println(makeJuice2(box)); // 타입 생략 가능
+    }
 }
 
 public class Ex12_4 {
     public static void main(String[] args) {
         FruitBox2<Fruit2> fruitBox = new FruitBox2<Fruit2>();
         FruitBox2<Apple2> appleBox = new FruitBox2<Apple2>();
+        FruitBox2<? extends Fruit2> box = new FruitBox2<>(); // 가능
+        FruitBox2<? extends Fruit2> box2 = new FruitBox2<Fruit2>(); // 가능
+        FruitBox2<? extends Fruit2> box3 = new FruitBox2<Apple2>(); // 가능
 
         fruitBox.add(new Apple2());
         fruitBox.add(new Grape2());
@@ -56,6 +77,11 @@ public class Ex12_4 {
 
         System.out.println(Juicer.makeJuice(fruitBox));
         System.out.println(Juicer.makeJuice(appleBox));
+
+        System.out.println("static generic makeJuice");
+        System.out.println(Juicer.<Fruit2>makeJuice2(fruitBox));
+        System.out.println(Juicer.<Apple2>makeJuice2(appleBox));
+        System.out.println(Juicer.makeJuice2(appleBox));    // 타입 생략 가능
     }
 }
 
